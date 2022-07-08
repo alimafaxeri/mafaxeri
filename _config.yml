@@ -3,11 +3,11 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Alireza'
-description: 'Barista/Artist'
+description: 'Artist'
 
 # Images
 avatar: 'navatar.jpeg'
-background: 'bg.png'
+background: 'car.png'
 favicon: 'favicon.ico'
 
 # Online profiles
