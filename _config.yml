@@ -32,11 +32,12 @@ instagram: 'myinsta'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
+telegram: 'mytelegram'
 email: 'alimafaxeri@yandex.com'
 #messenger: 'myfbchat'
 
 # social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
-social-links-order: [instagram, telegram, email]
+social-links-order: [telegram, instagram, email]
 
 # Yaml manifest of supported social links
 # Requirements:
